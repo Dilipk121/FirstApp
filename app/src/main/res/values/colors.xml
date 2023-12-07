@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- custom edit text color -->
+<!-- use ctrl / as a shortcut for comments   -->
+    <color name="EditTextColor">#E7E7F2</color>
+    <color name="EditTextBorderColor">#9C9C9E</color>
+</resources>

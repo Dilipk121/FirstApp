@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="signuptext">Signup Here</string>
+    <string name="filldetails"><![CDATA[Fill All Details Correctly …]]></string>
+
+<!--    Signup page Strings-->
+    <string name="tvname">Name</string>
+    <string name="get_tvname">Enter Name Here</string>
+    <string name="email">Email</string>
+    <string name="enter_email_here">Enter Email Here</string>
+    <string name="password">Password</string>
+    <string name="passwordd">Password</string>
+    <string name="write_something_about_yourself">Write Something About YourSelf</string>
+    <string name="write_here">Write Here</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="intrested_courses">Intrested Courses</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="python">Python</string>
+    <string name="signup">SignUp</string>
+    <string name="clear">Clear</string>
+
+</resources>
